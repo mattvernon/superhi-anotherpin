@@ -72,6 +72,19 @@ div.flash-success {
   padding: 10px 20px;
 }
 
+.button a {
+  background-color: $accent;
+  color: white;
+  padding: 15px 30px;
+  border-radius: 100px;
+  transition: 0.2s;
+  float: right;
+}
+
+.button a:hover {
+  background-color: black;
+}
+
 table {
   width: 100%;
 
